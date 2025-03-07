@@ -42,3 +42,12 @@ Run the apk on android device
 
 Additional notes or improvements made in the app:
 added feedback button to collect valuable feedbacks of the users to improve the app.
+Language used : Kotlin (Google's Recommended Language for Android Developmet) 
+
+Kotlin is Offically backed by Google which means :
+
+First-Class Support → Google prioritizes Kotlin for Android, ensuring better tooling, documentation, and updates.
+Modern & Concise → Less boilerplate code compared to Java, making apps cleaner and more efficient.
+Coroutines for Asynchronous Programming → Handles background tasks seamlessly without blocking the UI.
+Interoperability with Java → You can mix Kotlin with existing Java code in Android projects.
+Jetpack Compose Support → The future of Android UI development is Kotlin-first
