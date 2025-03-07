@@ -23,9 +23,22 @@ STEPS TO RUN THE APP:
 OR
 Directly install the APK on Android phone from here : https://drive.google.com/drive/folders/1hf5voVuk-2kOFe5eNcTU9XZ7imrRsGhp?usp=sharing
 
+
+DEPENDENCIES Used in Tabs3 App:
+
+AndroidX Navigation Component:
+androidx.navigation:navigation-fragment-ktx
+androidx.navigation:navigation-ui-ktx
+
+Material Components for UI:
+com.google.android.material:material
+
 HOW TO BUILD APK:
 
 Open Android Studio
 Go to Build > Build Bundle(s) / APK(s) > Build APK(s)
 Wait for the process to complete
 Run the apk on android device
+
+Additional notes or improvements made in the app:
+added feedback button to collect valuable feedbacks of the users to improve the app.
