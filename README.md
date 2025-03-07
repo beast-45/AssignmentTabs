@@ -19,3 +19,6 @@ STEPS TO RUN THE APP:
 -Sync Gradle
 -Select an emulator or a physical device
 -Run the App
+
+OR
+Directly install the APK on Android phone from here : https://drive.google.com/drive/folders/1hf5voVuk-2kOFe5eNcTU9XZ7imrRsGhp?usp=sharing
