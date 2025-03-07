@@ -22,3 +22,10 @@ STEPS TO RUN THE APP:
 
 OR
 Directly install the APK on Android phone from here : https://drive.google.com/drive/folders/1hf5voVuk-2kOFe5eNcTU9XZ7imrRsGhp?usp=sharing
+
+HOW TO BUILD APK:
+
+Open Android Studio
+Go to Build > Build Bundle(s) / APK(s) > Build APK(s)
+Wait for the process to complete
+Run the apk on android device
